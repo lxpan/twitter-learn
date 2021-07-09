@@ -19,5 +19,7 @@ The following is a summary of what each Jupyter notebook does:
 - `9-plot_graphs.ipynb`: Graph the performance of the model
 - `10-word_comparison.py`: Compare overlap of vocabulary. Do our 'Python enthusiasts' use more words than our control group?
 
+## References
+The paper associated with this project can be found [here](https://books.google.com.au/books?id=k64sDwAAQBAJ&pg=PA250&lpg=PA250&dq=Improving+Authorship+Attribution+in+Twitter+Through+Topic-Based+Sampling&source=bl&ots=DmnFH6sruC&sig=ACfU3U37hcocinVmMNu_THLCKbC9n1b_gA&hl=en&sa=X&ved=2ahUKEwicvpOzi9XxAhWr-nMBHWBYA-IQ6AEwBXoECAkQAw#v=onepage&q=Improving%20Authorship%20Attribution%20in%20Twitter%20Through%20Topic-Based%20Sampling&f=false)
 
 
