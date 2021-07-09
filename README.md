@@ -7,7 +7,7 @@ This project investigates the problem of authorship attribution -- namely, given
 Instead of randomly sampling a list of tweets and authors, we sample tweets based on a keyword. This keyword is the word "Python", and we perform disambiguation to ensure that they are talking about "Python" the programming language, and not "python" the animal. We then compare the performance of performing authorship attribution using our 'Python enthusiasts' vs a control group of randomly sampled users.
 
 ## How to best view the code
-Jupyter notebooks can take a while to load in Github, so it's recommended to either view them in Jupyter Lab, or use Visual Studio Code with the Python and Jupyter notebook extensions installed.
+Jupyter notebooks can take a while to load in Github, so it's recommended to either view them in Jupyter Lab, or use Visual Studio Code (recommended) with the Python and Jupyter notebook extensions installed.
 
 ## Overview of the code
 The following is a summary of what each Jupyter notebook does:
